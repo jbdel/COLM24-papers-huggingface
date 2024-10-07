@@ -4,7 +4,7 @@ Welcome to the COLM 2024 Papers repository! Below is a list of all accepted pape
 
 
 
-Use it via API! [Documentation here](https://huggingface.co/spaces/ECCV/ECCV2024-papers?view=api).
+Use it via API! [Documentation here](https://huggingface.co/spaces/COLMConference/COLM24-papers?view=api).
 ```python
 from gradio_client import Client
 import json
